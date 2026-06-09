@@ -35,6 +35,7 @@ Link: (adicionar link do Looker Studio)
 ## Referências
 
 - Base: https://www.kaggle.com/datasets/datahackers/state-of-data-brazil-20242025
+- Link: https://datastudio.google.com/reporting/8f245e54-996d-4c7f-aa74-76290ac8cbe4
 - Bibliotecas: pandas, numpy, matplotlib, seaborn, scipy
 - Data Hackers / Bain & Company
 EOF
