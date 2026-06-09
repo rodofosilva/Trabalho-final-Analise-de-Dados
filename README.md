@@ -1,10 +1,10 @@
 cat > README.md << 'EOF'
 # Análise Avançada de Dados — State of Data Brazil 2024
 
-**Disciplina:** Análise Avançada de Dados
-**Professora:** Ma. Heloisa Guimarães
-**Instituição:** Centro Universitário Santo Agostinho — UNIFSA
-**Autor:** Rodofo Dheymison e Carlos Arthur Moraes Gonçalves
+*Disciplina:* Análise Avançada de Dados
+*Professora:* Heloisa Guimarães
+*Instituição:* Centro Universitário Santo Agostinho — UNIFSA
+*Autores:* Rodofo Dheymison e Carlos Arthur Moraes Gonçalves
 
 ## Pergunta Central
 
@@ -16,7 +16,7 @@ Com base na análise do State of Data Brazil 2024–2025 (5.217 respondentes), o
 
 ## Dashboard
 
-Link: (adicionar link do Looker Studio)
+ Link: https://datastudio.google.com/reporting/8f245e54-996d-4c7f-aa74-76290ac8cbe4
 
 ## Estrutura do Repositório
 
@@ -35,7 +35,5 @@ Link: (adicionar link do Looker Studio)
 ## Referências
 
 - Base: https://www.kaggle.com/datasets/datahackers/state-of-data-brazil-20242025
-- Link: https://datastudio.google.com/reporting/8f245e54-996d-4c7f-aa74-76290ac8cbe4
 - Bibliotecas: pandas, numpy, matplotlib, seaborn, scipy
-- Data Hackers / Bain & Company
-EOF
+- Data Hackers / Bain & Company EOF
