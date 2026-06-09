@@ -4,7 +4,7 @@ cat > README.md << 'EOF'
 **Disciplina:** Análise Avançada de Dados
 **Professora:** Ma. Heloisa Guimarães
 **Instituição:** Centro Universitário Santo Agostinho — UNIFSA
-**Autor:** rodofosilva
+**Autor:** Rodofo Dheymison e Carlos Arthur Moraes Gonçalves
 
 ## Pergunta Central
 
