@@ -1,4 +1,4 @@
-cat > README.md << 'EOF'
+
 # Análise Avançada de Dados — State of Data Brazil 2024
 
 *Disciplina:* Análise Avançada de Dados
@@ -36,4 +36,4 @@ Com base na análise do State of Data Brazil 2024–2025 (5.217 respondentes), o
 
 - Base: https://www.kaggle.com/datasets/datahackers/state-of-data-brazil-20242025
 - Bibliotecas: pandas, numpy, matplotlib, seaborn, scipy
-- Data Hackers / Bain & Company EOF
+- Data Hackers / Bain & Company
